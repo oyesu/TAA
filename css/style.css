@@ -21,7 +21,7 @@ header {
   background-color: white;
   padding: 1.5rem 2rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   position: sticky;
